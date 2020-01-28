@@ -1,6 +1,6 @@
 ## Bad Data Visualization
 
-![Bad Graph](twitter-pie-chart.png)
+![Bad Graph](th.jpg)
 
 This graph shows the national health expenditure amounts in 2003. The
 numbers on the graph represent specific spending like (hospital care,
