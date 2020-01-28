@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Bad Data Visualization
 
-![Bad Graph](twitter-pie-chart.png)
+![Bad Graph](th.jpg)
 
 This graph shows the national health expenditure amounts in 2003. The numbers on the graph represent specific spending like (hospital care, physician, prescriptions drugs, etc) while the percentages are the percent of the whole spending it empcomess.
 
